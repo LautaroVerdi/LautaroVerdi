@@ -54,12 +54,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub:
-![Lautaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lautaro-verdi&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lautaro-verdi&layout=compact&theme=dark)
-
----
-
 🎯 **Objetivo:** Seguir aprendiendo y creciendo en el desarrollo de software mientras colaboro en proyectos innovadores. ¡Estoy abierto a nuevas oportunidades y colaboraciones! 🚀
 
 ---
